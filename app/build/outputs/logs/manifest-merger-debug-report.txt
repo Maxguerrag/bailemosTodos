@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml:3:11-44
+		INJECTED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/1c25f3d050a8faf7ff0beb694351741a27b7ec3e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/04b6feb5f65ba0e1acfa4cd9b9d32e1937b37a10/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/b701b30ebb086ee7aee892a6ca0a8c51705724c2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/845812c4bf1d92d3b8e03232b9cbb8cea4770af2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/05c1a3de23358f8194bc3b51f9365eb0952bae79/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/249be1f43f86ed317c41af65ef2e059a4a45fa78/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/76d43f558df3cb37082c60febe723c4af043c428/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/9334dbda23d645d49215467f92e0f151a0fd4172/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/2baad0fd93333f8fce27e0c1912146f7a0b242fb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/maximilianoguerra/.android/build-cache/32898af6cb8d4131e7975b85ad250e2f43ec4f1c/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml:8:13-45
+	android:supportsRtl
+		ADDED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml:10:13-39
+	android:roundIcon
+		ADDED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml:9:13-58
+	android:allowBackup
+		ADDED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml:6:13-39
+	android:icon
+		ADDED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml:7:13-47
+	android:theme
+		ADDED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml:11:13-44
+activity#cl.bailemostodos.survey.MainActivity
+ADDED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/1c25f3d050a8faf7ff0beb694351741a27b7ec3e/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/04b6feb5f65ba0e1acfa4cd9b9d32e1937b37a10/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/b701b30ebb086ee7aee892a6ca0a8c51705724c2/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/845812c4bf1d92d3b8e03232b9cbb8cea4770af2/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/05c1a3de23358f8194bc3b51f9365eb0952bae79/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/249be1f43f86ed317c41af65ef2e059a4a45fa78/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/76d43f558df3cb37082c60febe723c4af043c428/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/9334dbda23d645d49215467f92e0f151a0fd4172/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/2baad0fd93333f8fce27e0c1912146f7a0b242fb/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/maximilianoguerra/.android/build-cache/32898af6cb8d4131e7975b85ad250e2f43ec4f1c/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/1c25f3d050a8faf7ff0beb694351741a27b7ec3e/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maximilianoguerra/Documents/Survey/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/1c25f3d050a8faf7ff0beb694351741a27b7ec3e/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/04b6feb5f65ba0e1acfa4cd9b9d32e1937b37a10/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/b701b30ebb086ee7aee892a6ca0a8c51705724c2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/845812c4bf1d92d3b8e03232b9cbb8cea4770af2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/05c1a3de23358f8194bc3b51f9365eb0952bae79/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/249be1f43f86ed317c41af65ef2e059a4a45fa78/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/76d43f558df3cb37082c60febe723c4af043c428/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/9334dbda23d645d49215467f92e0f151a0fd4172/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/2baad0fd93333f8fce27e0c1912146f7a0b242fb/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/1c25f3d050a8faf7ff0beb694351741a27b7ec3e/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/maximilianoguerra/.android/build-cache/1c25f3d050a8faf7ff0beb694351741a27b7ec3e/output/AndroidManifest.xml:26:9-47

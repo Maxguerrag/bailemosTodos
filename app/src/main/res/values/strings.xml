@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ciad Chile</string>
+    <string name="nombre_juez">Nombre Juez</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="Corogreafia">Corogreafa</string>
+    <string name="continuar">Continuar</string>
+    <string-array name="lista">
+        <item>Baile 1</item>
+        <item>Baile 2</item>
+        <item>Baile 3</item>
+        <item>Baile 4</item>
+        <item>Baile 5</item>
+        <item>Baile 6</item>
+        <item>Baile 7</item>
+
+
+    </string-array>
+
+</resources>

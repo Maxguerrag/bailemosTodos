@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/maximilianoguerra/Documents/Survey/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/maximilianoguerra/.android/build-cache/1c25f3d050a8faf7ff0beb694351741a27b7ec3e/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/maximilianoguerra/Documents/Survey/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/maximilianoguerra/.android/build-cache/1c25f3d050a8faf7ff0beb694351741a27b7ec3e/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/maximilianoguerra/Documents/Survey/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/maximilianoguerra/.android/build-cache/1c25f3d050a8faf7ff0beb694351741a27b7ec3e/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/maximilianoguerra/Documents/Survey/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/maximilianoguerra/.android/build-cache/1c25f3d050a8faf7ff0beb694351741a27b7ec3e/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/maximilianoguerra/Documents/Survey/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/maximilianoguerra/.android/build-cache/1c25f3d050a8faf7ff0beb694351741a27b7ec3e/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/maximilianoguerra/Documents/Survey/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/maximilianoguerra/.android/build-cache/1c25f3d050a8faf7ff0beb694351741a27b7ec3e/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    }
+]

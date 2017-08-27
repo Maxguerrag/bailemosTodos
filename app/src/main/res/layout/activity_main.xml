@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="20dp"
+        tools:context="cl.bailemostodos.survey.MainActivity" android:orientation="vertical">
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/nombre_juez"/>
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_nombre"/>
+    <TextView
+            android:text="@string/Corogreafia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    <Spinner
+            android:entries="@array/lista"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"></Spinner>
+
+    <Button
+            android:text="@string/continuar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+
+
+
+
+</LinearLayout>
